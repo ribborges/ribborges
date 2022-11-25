@@ -1,6 +1,6 @@
 ## Hi there 🫡
 
-#### Computer Scientist | Front-end developer | Game developer 💻🎮 ##
+#### Computer Scientist | Front-end developer | Game developer 💻🎮🇧🇷
 
 I'm a Front-end developer, I have a communicative profile and I consider myself extremely creative. I've been passionate about technology since I was a kid. I started my studies in the area with a certificate program of computer technician and, soon after, with the bachelor degree of computer science at the Pontifical Catholic University of Minas Gerais. My main skills are focused on Front-end development such as: HTML, CSS, JavaScript, TypeScript, Node, React and SASS. I also have deep knowledge in non-relational databases such as MongoDB and Im a great enthusiast in game development with Unreal (C++).
 
