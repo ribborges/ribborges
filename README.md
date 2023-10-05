@@ -2,7 +2,7 @@
 
 #### 💻🇧🇷 Computer Scientist | Full Stack developer
 
-I'm a developer, with a bachelor's degree in computer science and a graduate degree student in Full Stack development. Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at PUC Minas.
+I'm a developer, with a bachelor's degree in computer science and currently I'm a graduate degree student in Full Stack development. Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at PUC Minas.
 My main skills are focused on Full Stack development with web technologies (MERN Stack) such as: HTML, CSS, JavaScript, TypeScript, Node.js, express.js, React.js, React Native, MongoDB and SASS. I have a communicative, calm and agile profile, with a great facility for teamwork.
 
 - 🎮 I'm also a great enthusiast in game development with Unreal.
