@@ -1,21 +1,37 @@
 ## Hi there 🫡
 
-#### Computer Scientist | Front-end developer | Game developer 💻🎮🇧🇷
+#### 💻🇧🇷 Computer Scientist | Full Stack developer
 
-I'm a Front-end developer, I have a communicative profile and I consider myself extremely creative. I've been passionate about technology since I was a kid. I started my studies in the area with a certificate program of computer technician and, soon after, with the bachelor degree of computer science at the Pontifical Catholic University of Minas Gerais. My main skills are focused on Front-end development such as: HTML, CSS, JavaScript, TypeScript, Node, React and SASS. I also have deep knowledge in non-relational databases such as MongoDB and I'm a great enthusiast in game development with Unreal (C++ and Blueprints).
+I'm a developer, with a bachelor's degree in computer science and a graduate degree student in Full Stack development. Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at PUC Minas.
+My main skills are focused on Full Stack development with web technologies (MERN Stack) such as: HTML, CSS, JavaScript, TypeScript, Node.js, express.js, React.js, React Native, MongoDB and SASS. I have a communicative, calm and agile profile, with a great facility for teamwork.
 
-- 👨🏻 How to reach me: <a href="mailto:ribborges@outlook.com">Email</a> | <a href="https://www.linkedin.com/in/ribborges/">LinkedIn</a>
+- 🎮 I'm also a great enthusiast in game development with Unreal.
+- 🗣️ I speak Portuguese, English and currently learning German.
+- 📸 I have a hobby and a passion for photography.
+
+#### 👨🏻 How to reach me:
+
+<a href="mailto:ribborges@outlook.com"><img src="https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/ribborges/"><img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png" target="_blank"/></a>
 
 ##
 
 <div>
-	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/JS.png">
-   	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/TS.png">
-    	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/SASS.png">
-    	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/Node.png">
-    	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/React.png">
-    	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/Mongo.png">
-    	<img widht="50px" height="50px" src="https://ribborges.github.io/src/img/Icons/Unreal.png">
+	<img src="https://img.icons8.com/?size=50&id=20909&format=png">
+   	<img src="https://img.icons8.com/?size=50&id=21278&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=108784&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png">
+	<img src="https://img.icons8.com/?size=50&id=84710&format=png">
+	<img src="https://img.icons8.com/?size=50&id=4PiNHtUJVbLs&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=WNoJgbzDr3i2&format=png">
+	<img src="https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png">
+	<img src="https://img.icons8.com/?size=50&id=38561&format=png">
+    	<img src="https://img.icons8.com/?size=50&id=74402&format=png">
+	<img src="https://img.icons8.com/?size=50&id=20906&format=png">
+	<img src="https://img.icons8.com/?size=50&id=haeAxVQEIg0F&format=png">
+	<img src="https://img.icons8.com/?size=50&id=34301&format=png">
 </div>
 
 ##
