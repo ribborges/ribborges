@@ -2,7 +2,9 @@
 
 #### 💻🇧🇷 Full Stack developer
 
-I'm a full stack developer, with a bachelor's degree in computer science and currently pursuing an MBA in Software Engineering at the University of São Paulo (USP). Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at the Pontifical Catholic University of Minas Gerais (PUC Minas). My main skills are focused on Full Stack development with web technologies (MERN Stack) such as: HTML, CSS, JavaScript, TypeScript, Node.js, express.js, React.js, React Native, MongoDB and SASS. I have a communicative, calm and agile profile, with a great facility for teamwork.
+I am a full-stack developer with a bachelor's degree in Computer Science and am currently pursuing an MBA in Software Engineering at the University of São Paulo (USP).
+I am an experienced full-stack developer with expertise in web and mobile technologies, including HTML, CSS, JavaScript, TypeScript, Node, Express, React, React Native, MongoDB, SQL, and Zustand. I have a communicative, calm, and agile personality, with a strong aptitude for teamwork.
+Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at the Pontifical Catholic University of Minas Gerais (PUC Minas).
 
 #### Fun facts about Me:
 
@@ -12,9 +14,9 @@ I'm a full stack developer, with a bachelor's degree in computer science and cur
 
 #### 👨🏻 How to reach Me:
 
-<a href="mailto:ribborges@outlook.com"><img src="https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png" target="_blank"/></a>
+<a href="mailto:contato@richardborges.dev"><img src="https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/ribborges/"><img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png" target="_blank"/></a>
-<a href="https://richardborges.vercel.app/"><img src="https://img.icons8.com/?size=30&id=naDnVpQ3BNkR&format=png"></a>
+<a href="https://richardborges.dev/"><img src="https://img.icons8.com/?size=30&id=naDnVpQ3BNkR&format=png"></a>
 
 ##
 
