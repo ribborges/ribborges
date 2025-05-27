@@ -34,20 +34,6 @@ Passionate about technology since early, I started my studies in the area with a
 
 ##
 
-<div align="center">
-  <img src="https://img.icons8.com/?size=50&id=108784&format=png">
-  <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png">
-  <img src="https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png">
-	<img src="https://img.icons8.com/?size=50&id=84710&format=png">
-	<img src="https://img.icons8.com/?size=50&id=4PiNHtUJVbLs&format=png">
-  <img src="https://img.icons8.com/?size=50&id=hsPbhkOH4FMe&format=png">
-  <img src="https://img.icons8.com/?size=50&id=WNoJgbzDr3i2&format=png">
-	<img src="https://img.icons8.com/?size=50&id=NfbyHexzVEDk&format=png">
-	<img src="https://img.icons8.com/?size=50&id=38561&format=png">
-  <img src="https://img.icons8.com/?size=50&id=74402&format=png">
- 	<img src="https://img.icons8.com/?size=50&id=33039&format=png">
-	<img src="https://img.icons8.com/?size=50&id=22813&format=png">
-	<img src="https://img.icons8.com/?size=50&id=20906&format=png">
-	<img src="https://img.icons8.com/?size=50&id=haeAxVQEIg0F&format=png">
-	<img src="https://img.icons8.com/?size=50&id=34301&format=png">
-</div>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=javascript,typescript,python,rust,go,nodejs,express,prisma,rabbitmq,react,nextjs,vite,sass,styledcomponents,bootstrap,tailwind,tauri,electron,aws,mongodb,postgres,firebase,supabase,docker,vscode,git,github,figma,postman,unreal&theme=dark" alt="Languages" />
+</p>
