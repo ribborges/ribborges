@@ -2,27 +2,39 @@
 
 #### 💻🇧🇷 Full Stack developer
 
-I am a full-stack developer with a bachelor's degree in Computer Science and am currently pursuing an MBA in Software Engineering at the University of São Paulo (USP).
+I'm a full stack developer, bachelor in computer science and currently studying MBA in Software Engineering at the Polytechnic School of University of São Paulo (USP).
 <br>
-I am an experienced full-stack developer with expertise in web and mobile technologies, including HTML, CSS, JavaScript, TypeScript, Node, Express, React, React Native, MongoDB, SQL, and Zustand. I have a communicative, calm, and agile personality, with a strong aptitude for teamwork.
+My main skills are focused on Full Stack development with web and mobile technologies such as: HTML, CSS, JavaScript, TypeScript, Node.js, express.js, React.js, React Native, MongoDB and SASS. I have a communicative, calm and agile profile, with a great ease for teamwork.
 <br>
-Passionate about technology from an early age, I started my studies in the area with a certificate program of computer technician and, soon after, for the computer science course at the Pontifical Catholic University of Minas Gerais (PUC Minas).
+Passionate about technology since early, I started my studies in the area with a technical course in computing and, soon after, for the computer science course at the Pontifical Catholic University of Minas Gerais (PUC Minas).
 
 #### Fun facts about Me:
 
 - 🎮 I'm also a great enthusiast in game development with Unreal.
 - 🗣️ I speak Portuguese and English.
 - 📸 I have a hobby and a passion for photography.
+- 👀 Currently exploring microservices architecture in depth.
 
 #### 👨🏻 How to reach Me:
 
-<a href="mailto:contato@richardborges.dev"><img src="https://img.icons8.com/?size=30&id=LPcVDft9Isqt&format=png" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/ribborges/"><img src="https://img.icons8.com/?size=30&id=xuvGCOXi8Wyg&format=png" target="_blank"/></a>
-<a href="https://richardborges.dev/"><img src="https://img.icons8.com/?size=30&id=naDnVpQ3BNkR&format=png"></a>
+<a href="tel:+5511942347830"><img src="https://img.icons8.com/doodle/64/apple-phone.png" target="_blank"/></a>
+<a href="https://wa.me/5511942347830"><img src="https://img.icons8.com/doodle/64/whatsapp.png" target="_blank"/></a>
+<a href="mailto:contato@richardborges.dev"><img src="https://img.icons8.com/doodle/64/new-post.png" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/ribborges/"><img src="https://img.icons8.com/doodle/64/linkedin--v2.png" target="_blank"/></a>
+<a href="https://richardborges.dev/"><img src="https://img.icons8.com/doodle/64/portfolio.png"></a>
+
+#### ✳️ Stats
+
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ribborges&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribborges&layout=donut&theme=dark" />
+  </div>
+</div>
 
 ##
 
-<div>
+<div align="center">
   <img src="https://img.icons8.com/?size=50&id=108784&format=png">
   <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png">
   <img src="https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png">
@@ -39,5 +51,3 @@ Passionate about technology from an early age, I started my studies in the area 
 	<img src="https://img.icons8.com/?size=50&id=haeAxVQEIg0F&format=png">
 	<img src="https://img.icons8.com/?size=50&id=34301&format=png">
 </div>
-
-##
