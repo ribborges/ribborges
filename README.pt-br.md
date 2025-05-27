@@ -1,3 +1,0 @@
-## Olá 🫡
-
-#### 💻🇧🇷 Desenvolvedor Full Stack
