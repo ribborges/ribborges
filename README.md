@@ -17,7 +17,7 @@ Passionate about technology since early, I started my studies in the area with a
 
 #### 👨🏻 How to reach Me:
 
-<a href="tel:5511942347830"><img src="https://img.icons8.com/doodle/64/apple-phone.png" target="_blank"/></a>
+<!-- <a href="tel:+5511942347830"><img src="https://img.icons8.com/doodle/64/apple-phone.png" target="_blank"/></a> -->
 <a href="https://wa.me/5511942347830"><img src="https://img.icons8.com/doodle/64/whatsapp.png" target="_blank"/></a>
 <a href="mailto:contato@richardborges.dev"><img src="https://img.icons8.com/doodle/64/new-post.png" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/ribborges/"><img src="https://img.icons8.com/doodle/64/linkedin--v2.png" target="_blank"/></a>
