@@ -2,11 +2,11 @@
 
 #### 💻🇧🇷 Full Stack developer
 
-I'm a full stack developer, bachelor in computer science and currently studying MBA in Software Engineering at the Polytechnic School of University of São Paulo (USP).
-<br>
-My main skills are focused on Full Stack development with web and mobile technologies such as: HTML, CSS, JavaScript, TypeScript, Node.js, express.js, React.js, React Native, MongoDB and SASS. I have a communicative, calm and agile profile, with a great ease for teamwork.
-<br>
-Passionate about technology since early, I started my studies in the area with a technical course in computing and, soon after, for the computer science course at the Pontifical Catholic University of Minas Gerais (PUC Minas).
+With a background in Computer Science (PUC-MG) and a postgraduate degree in Software Engineering (USP), I focus on developing scalable systems, from monolithic architectures to modern Microservices-based solutions.
+
+I am proficient in technologies like Node.js, TypeScript, Express, React, and MongoDB to build complete and efficient applications. I am recognized for my teamwork, communication skills, and calm approach to problem-solving.
+
+My journey, driven by a passion for technology since vocational school, is focused on combining solid academic knowledge with industry best practices to deliver high-value software.
 
 #### Fun facts about Me:
 
